@@ -1,1 +1,1 @@
-//= require facebox_rails
+//= require facebox-rails
