@@ -1,0 +1,1 @@
+//= require facebox-rails/facebox
