@@ -14,4 +14,12 @@ Gem::Specification.new do |gem|
   gem.name          = "facebox-rails"
   gem.require_paths = ["lib"]
   gem.version       = Facebox::Rails::VERSION
+
+  gem.add_runtime_dependency "railties"
+
+  gem.add_development_dependency "rspec"
+  gem.add_development_dependency "rspec-rails"
+  gem.add_development_dependency "rails"
+  gem.add_development_dependency "haml-rails"
+  # gem.add_development_dependency "sass-rails"
 end

@@ -1,7 +1,4 @@
 require "facebox-rails/version"
+require 'facebox-rails/railtie'
 
-module Facebox
-  module Rails
-    # Your code goes here...
-  end
-end
+module FaceboxRails; end

@@ -1,6 +1,6 @@
 # Facebox::Rails
 
-TODO: Write a gem description
+TODO: Write specs!
 
 ## Installation
 
