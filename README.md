@@ -6,7 +6,7 @@ TODO: Write specs!
 
 Add this line to your application's Gemfile:
 
-    gem 'facebox-rails'
+    gem 'facebox-rails2', :require => 'facebox-rails'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install facebox-rails
+    $ gem install facebox-rails2
 
 ## Usage
 
