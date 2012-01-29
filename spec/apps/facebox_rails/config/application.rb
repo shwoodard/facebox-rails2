@@ -4,6 +4,7 @@ require "action_controller/railtie"
 require "sprockets/railtie"
 require 'haml-rails'
 require 'sass-rails'
+require 'facebox-rails'
 
 module FaceboxRails
   class Application < Rails::Application
