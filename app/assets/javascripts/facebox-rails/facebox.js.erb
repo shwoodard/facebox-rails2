@@ -84,8 +84,8 @@
     settings: {
       opacity      : 0.2,
       overlay      : true,
-      loadingImage : '/facebox/loading.gif',
-      closeImage   : '/facebox/closelabel.png',
+      loadingImage : <%= FaceboxRails.configuration.loading_image_path %>,
+      closeImage   : <%= FaceboxRails.configuration.closeimage_image_path %>,
       imageTypes   : [ 'png', 'jpg', 'jpeg', 'gif' ],
       faceboxHtml  : '\
     <div id="facebox" style="display:none;"> \
